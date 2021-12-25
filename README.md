@@ -9,13 +9,14 @@
 
 ![Web Site](./README-1.png)
 
-## Docker
-Docker에서 실행시키는 방법에 대해서 서술 하였습니다. nginx를 사용하였습니다.
-### Command
+## Getting Started
+Docker에서 실행시키는 방법에 대해서 서술 하였습니다.  
+nginx를 사용하였습니다.
+
+### Docker Command
 ```shell
 $ docker run --name photography.parkhyunsang.io -v ~/dev/html5up-multiverse:/usr/share/nginx/html -d -p 80:80 nginx
 ```
-
 ### Dockerfile
 ```shell
 $ docker build --tag photo.parkhyunsang.com-v0.0.1 .
