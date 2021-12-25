@@ -1,6 +1,6 @@
 # [photo.parkhyunsang.com](photo.parkhyunsang.com)
 <div align="center">
-<img src="./Signature.png">
+<img src="./Signature.png" style="width:500px;">
 </div>
 
 제가 찍고 만든 사진들을 기록합니다.  
